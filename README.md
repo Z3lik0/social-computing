@@ -20,7 +20,7 @@ The course covers computational methods to collect, model, analyze, and audit da
 
 ## 🔍 Detailed Notebook Breakdown
 
-### [Notebook 1: Online Data Collection & Web Scraping](SC_Notebook1_NAME1_NAME2.ipynb)
+### [Notebook 1: Online Data Collection & Web Scraping]
 Focuses on retrieving web pages and parsing structured information directly from HTML trees.
 
 * **HTTP & Request Headers:**
@@ -36,7 +36,7 @@ Focuses on retrieving web pages and parsing structured information directly from
 
 ---
 
-### [Notebook 2: Working with Web APIs & Algorithmic Auditing](SC_Notebook2_NAME1_NAME2.ipynb)
+### [Notebook 2: Working with Web APIs & Algorithmic Auditing]
 Explores consuming third-party RESTful APIs, securing credentials, and utilizing Generative AI for data auditing.
 
 * **API Authentication & Secret Management:**
@@ -54,7 +54,7 @@ Explores consuming third-party RESTful APIs, securing credentials, and utilizing
 
 ---
 
-### [Notebook 3: Browser Automation & Platform Auditing](SC_Notebook3_NAME1_NAME2.ipynb)
+### [Notebook 3: Browser Automation & Platform Auditing]
 Covers automated browser interactions on JavaScript-heavy platforms using Selenium and analyzing personalization/ranking algorithms.
 
 * **Selenium Webdriver Automation:**
@@ -72,7 +72,7 @@ Covers automated browser interactions on JavaScript-heavy platforms using Seleni
 
 ---
 
-### [Notebook 4: Agent-Based Modelling (ABM)](SC_Notebook4_NAME1_NAME2.ipynb)
+### [Notebook 4: Agent-Based Modelling (ABM)]
 Implements an agent-based simulation from scratch to study efficiency and bottleneck dynamics in passenger boarding and deboarding.
 
 * **Airplane Cabin Modeling:**
@@ -91,7 +91,7 @@ Implements an agent-based simulation from scratch to study efficiency and bottle
 
 ---
 
-### [Notebook 5: Data Analysis, NLP & Annotation Benchmarking](SC_Notebook5_NAME1_NAME2.ipynb)
+### [Notebook 5: Data Analysis, NLP & Annotation Benchmarking]
 Covers text processing, geographic feature inference, multi-method sentiment classification, and statistical inter-annotator evaluation.
 
 * **Feature Inference from Email Domains:**
@@ -151,4 +151,3 @@ For Notebook 3, ensure you have **Google Chrome** installed along with the match
 All scraping, API queries, and platform audits were executed adhering to research ethics principles, respecting rate limits and terms of service, and ensuring anonymization of personal credentials.
 ```
 
-The generated `README.md` provides an end-to-end breakdown of the course concepts, a notebook-by-notebook directory of tools and methods, setup instructions, and guidance on API configurations.
